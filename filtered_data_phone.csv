@@ -1,0 +1,101 @@
+ID,Name,Age,Gender,Daily_Usage_Hours,Sleep_Hours,Social_Interactions,Exercise_Hours,Anxiety_Level,Depression_Level,Screen_Time_Before_Bed,Phone_Checks_Per_Day,Apps_Used_Daily,Time_on_Social_Media,Time_on_Gaming,Time_on_Education,Phone_Usage_Purpose
+3000,Curtis Johnson,17,Male,3.5,6.9,4,2.1,4,5,0.6,117,8,0,2.3,0.1,Education
+2999,Barbara Hinton,17,Female,6.7,7.5,3,0.2,3,5,1.6,125,17,1.7,2.6,1.5,Browsing
+2997,Bethany Murray,13,Female,3.6,7.3,5,0,8,8,0.9,45,8,3.1,0,0.3,Gaming
+2996,Jesus Yates,16,Female,3.9,6.4,4,0.9,7,10,0.3,80,15,2.7,1.8,1,Other
+2995,Calvin Larsen,17,Female,3.7,9.6,2,0.3,10,6,1,95,7,1.3,0,1.1,Social Media
+2992,Christina Davila,16,Male,6.3,5.7,8,2.9,6,1,0.2,36,5,2.1,2.3,2,Social Media
+2991,Lauren Ballard,13,Female,2.8,5.6,4,1.1,7,10,1.1,77,10,3.7,3.4,0.7,Social Media
+2989,Angela Lyons,14,Male,6.4,5.1,8,0.5,2,4,1,82,15,3.3,0.2,0.8,Education
+2987,Jesus Miller,16,Female,6.4,5.9,9,1.4,3,6,0.4,27,12,2,1.7,1.5,Gaming
+2985,Robin Burns,17,Female,5.5,9.2,10,1.3,2,10,2.2,87,6,1.4,1.8,1.2,Gaming
+2984,William Shaw,14,Female,7,3.5,1,0.4,2,1,0.4,87,19,4.4,1.6,0,Gaming
+2983,Luke Hamilton,14,Male,5.7,5,9,0.4,3,3,0.5,58,18,3.9,3.4,1.1,Other
+2980,Travis Harris,14,Male,8.7,7.1,7,0.5,1,4,1.7,94,16,3.4,1.9,1.3,Social Media
+2979,Manuel Hunt,14,Male,3.6,4.8,5,0.7,4,8,0.3,21,11,2.9,2.1,0.1,Social Media
+2977,Carla Rodgers,14,Female,7.3,6.2,8,0.2,1,9,0,64,12,3.1,1.1,2.1,Other
+2976,Michelle Clark,17,Male,4.5,8.2,10,1.1,8,1,1.8,53,19,2.2,2.9,2.2,Gaming
+2975,Misty Patton,18,Female,5,7.4,0,1,10,1,0.5,70,15,4.5,1,1,Education
+2974,Allison Fisher,16,Male,3.6,7,1,0,4,5,0.9,90,13,3.6,1.5,1.4,Gaming
+2973,Andrew Gutierrez,17,Male,6,5.6,3,1.3,9,6,0.8,113,7,2.2,0.4,0.3,Browsing
+2972,Kimberly Tanner,14,Male,3.5,5.6,0,1.7,5,7,1.2,109,8,1.7,1.7,1,Other
+2971,Daniel Glenn,13,Female,4.1,7.8,7,1.2,4,1,1.2,91,14,2.1,0.2,1.3,Gaming
+2970,Andrea Wright,13,Male,2.7,6.8,1,1.3,10,1,1.5,34,8,0.8,4,1.1,Gaming
+2969,Kerri Miller,14,Male,10.3,9.8,8,0,3,7,0.9,68,9,2.9,0.7,0.7,Browsing
+2967,Holly Marquez,17,Male,6,6,2,1.5,5,9,0.9,66,13,2.3,0,1.5,Browsing
+2966,Kevin White,13,Male,2.7,7.5,6,1.4,8,4,0.9,65,16,3.4,3.3,2.5,Browsing
+2965,Trevor Mata,14,Male,2.6,6.1,5,1.9,5,7,1.5,24,7,3.6,1.8,1.2,Education
+2963,Robert Gardner,18,Female,4.8,6.8,2,0.9,7,2,1,79,16,2.5,0,2.1,Browsing
+2962,Justin Williamson,19,Male,5.5,7.1,10,1.4,9,6,1.3,72,17,4.2,2.7,1.5,Other
+2959,Steven Brown,13,Female,9.3,4.8,0,0,1,1,1.5,114,8,2.6,2,1.5,Browsing
+2958,Kurt Singh,18,Male,6.2,4.7,8,0.8,9,4,2,64,6,2.4,0.1,1,Social Media
+2955,Tracy Perry,19,Male,1.4,6.5,1,1.1,8,2,0.7,133,20,0.8,0,2.3,Education
+2952,Jessica Clark,18,Male,4.1,6.1,6,2.1,4,1,1.7,36,16,3.4,1.8,1,Browsing
+2951,John Collins,16,Female,5.3,5.6,4,1.4,7,3,0.6,128,5,3.4,1.5,1.5,Browsing
+2949,Samuel Maldonado,14,Female,3.5,5.6,5,0,7,7,0.8,143,19,3.3,0.5,0.5,Other
+2945,Mary Anderson,16,Male,5.5,8.5,9,1,8,5,2.1,100,15,1.7,2,0.3,Social Media
+2944,Samuel Perry,17,Female,3.8,7.9,5,0,2,6,0.6,57,9,3.7,0.7,0.9,Other
+2943,Jacob Ferguson,13,Female,7.4,8.5,4,1.3,10,6,0.5,44,20,0,1.5,0.2,Social Media
+2942,Pam Roach,14,Female,8.1,6.9,10,0,9,9,0.1,60,10,1.8,1.8,0.1,Gaming
+2940,Carrie Murphy,18,Female,4.6,8,3,0.9,7,9,0.8,23,11,1.6,2.7,1.9,Gaming
+2939,David Martin,16,Male,6,6.6,6,0.2,9,10,1.9,110,10,2.5,0.1,0.1,Browsing
+2937,Mrs. Cynthia Russell MD,17,Male,6.3,9.3,5,0.5,2,9,0.3,91,11,3.3,1.8,0,Browsing
+2936,Katherine Perez,17,Female,3.4,6.4,0,2.1,2,3,1.2,67,7,2.7,1.2,2.2,Other
+2935,Christopher Harper,16,Male,5.3,5.6,7,0.7,9,4,0.6,97,15,2,1.8,1,Gaming
+2934,Zachary Kirby,19,Male,6,9.2,3,1.5,9,9,1.6,149,17,1.9,1.2,0,Browsing
+2930,John Erickson,19,Male,2.4,8,8,0,4,9,0.9,20,20,0.7,0,0.8,Other
+2929,Robert Cole,18,Female,4.4,5.7,7,1.6,2,10,1.3,49,20,5,0.7,1.8,Browsing
+2928,Kristina Bennett,13,Male,2.1,7,5,0.1,6,6,1,51,6,3.3,1.9,1.4,Social Media
+2926,Shelby Stephenson,18,Female,6.6,7.7,8,3.3,9,10,1.2,83,11,2,1,2.2,Social Media
+2925,Anna Castillo,13,Male,8,5.7,7,0.9,7,8,1.4,36,10,3.3,0,0.5,Education
+2923,William Campos,17,Male,4.7,3.9,2,0.4,8,1,0.2,62,18,3.7,1.9,0.8,Other
+2920,Brian Meyer,18,Female,6.3,8,4,1.1,2,6,0.7,29,20,3.2,2.3,2.6,Gaming
+2918,Justin Delgado,18,Male,6.7,5.8,5,1.5,5,9,0.8,131,13,3.8,0,0.5,Education
+2917,Thomas Ellis,17,Male,6.1,7.4,3,0,6,4,0.4,82,15,3.9,2.5,0.2,Gaming
+2916,Rebecca Campbell,19,Male,7.4,5.7,0,0.8,1,2,1.5,59,6,1.7,1.3,0.9,Gaming
+2914,Kevin Maddox,13,Female,5,7.1,8,1.9,7,6,0.9,146,6,2.5,2.6,0.8,Browsing
+2912,Lisa Figueroa,19,Female,5.8,7.5,3,1.2,8,2,1.1,150,11,2.2,0.9,2.3,Gaming
+2911,Lisa Rios,16,Female,5.3,5.9,5,0.1,10,2,1.4,143,12,3.1,1.1,0.8,Education
+2910,Amanda Green,18,Male,6.7,8.3,6,2.1,1,10,0.6,36,6,1.7,1.6,1,Gaming
+2908,Corey Weaver,14,Male,2.6,7.3,8,0.1,3,4,0.3,103,15,2.2,1.8,1.3,Gaming
+2907,Amber Graham,18,Female,7.7,7.3,0,1.2,10,1,1.1,109,18,1.6,1.2,0,Gaming
+2906,John Harris,18,Male,7.3,6.8,3,0.3,3,5,1.2,60,18,1.9,3.3,2.4,Social Media
+2905,Michael Parker,15,Male,6.9,7.9,5,1.4,10,10,0.8,55,19,2.9,0,1.9,Social Media
+2904,Victoria Robertson,13,Male,5,4.8,5,0,9,9,0.9,42,14,3,1,0.9,Education
+2903,Lucas Gonzalez,13,Male,4.1,8.6,1,1.1,6,3,0.8,21,17,2.8,0.7,0,Social Media
+2901,Keith Molina,19,Male,3.8,8,8,1.5,3,9,0.1,129,8,2.2,4,0,Browsing
+2900,Tyler Wilson,15,Female,5.7,5.4,1,0,3,10,0.7,67,10,4,1.2,1.6,Other
+2899,Paula Walters,14,Female,7,4.4,10,2.4,7,6,1.1,25,6,2.5,3.4,1,Browsing
+2898,Anthony Ewing,15,Female,5.5,6.5,2,0.7,10,10,1.5,36,15,1.8,1.8,0.8,Education
+2897,Kathleen Fischer,14,Female,4.9,4.1,8,1.6,5,10,0.7,82,8,1.8,1,1.9,Gaming
+2894,Scott Whitaker,16,Male,2.6,5.5,2,1.8,10,7,1.2,29,19,2.9,2.5,0.7,Browsing
+2893,Benjamin Baird,16,Male,0.8,6.8,5,1.4,5,7,0.7,138,14,4.2,0.9,0.3,Other
+2892,Tina Powell,13,Female,8,5.9,9,1.3,10,9,1.9,28,6,1.5,1.6,1.2,Other
+2891,Charles Martin,18,Male,5,6.1,9,1.1,8,5,0.6,93,15,2.9,1.6,0.8,Social Media
+2887,Mario Jefferson,19,Male,6,7.9,10,1.2,8,9,0.5,65,5,3.1,0.4,2.1,Gaming
+2886,John Duncan,16,Female,5,7.1,5,1.8,4,3,1,105,12,2.2,1.5,2.2,Other
+2885,Jennifer Wilson,18,Male,6.3,6.1,8,1.6,9,8,0.8,125,5,3,3.1,0.5,Education
+2884,Donna Ross,13,Male,4.7,5.8,0,0.9,4,6,0.9,149,11,3.8,1.4,1.2,Gaming
+2883,Dustin King,19,Female,6.8,5.8,8,0,2,8,0.6,32,18,1.1,2.2,1.2,Education
+2882,Cody Torres,19,Male,4.1,5.6,10,0.9,9,9,1.4,125,16,3.2,2.3,1,Browsing
+2880,Steve Dillon PhD,17,Female,7.1,7.1,2,0,5,9,0.4,82,18,2.1,3.2,1.7,Browsing
+2878,Daniel Hughes,16,Female,4.4,7.4,2,0,1,8,1.3,107,6,3.3,0.8,2,Other
+2876,Amanda Johnson,14,Female,6.5,5.1,3,0.9,4,5,0.8,69,13,3.5,2.1,1.6,Gaming
+2875,Joseph Adams,13,Female,3.7,4.3,9,1,4,9,1,22,17,2.8,1.2,0.8,Browsing
+2874,Jessica Berg,18,Male,0.6,7.8,0,1.1,9,3,0.2,142,17,3.7,1.7,1.1,Browsing
+2872,Natalie Phillips,18,Female,5.7,9,4,1.3,9,7,0.1,133,9,4.4,1.8,0.1,Social Media
+2871,Melissa Rivera,14,Female,5.1,7.4,4,1.4,4,9,1.8,105,8,1.5,1.3,1.9,Education
+2870,Juan Travis,19,Female,7.9,7.9,6,0.6,4,7,1.2,79,9,2.3,3.3,0.3,Gaming
+2869,Linda Andersen,14,Male,6.8,6.8,2,0.6,7,9,1.3,73,9,3.8,1.1,2,Education
+2868,James Olson,15,Female,3.5,3.2,3,0.1,4,10,0.7,131,16,1.9,1,2,Other
+2866,Mark Quinn,14,Male,0,5.2,1,1.7,5,7,1.4,144,16,2.6,1.9,1.4,Social Media
+2863,Michael Brown,19,Female,5.7,7.9,0,0,7,6,1.7,87,8,1.4,2.5,1.8,Gaming
+2862,Michael Dudley,14,Male,9.5,5.8,7,1.3,3,9,1.3,113,17,2.5,2,0.2,Social Media
+2859,Jaime Barajas,18,Female,0,7.3,3,0.1,10,9,1.2,34,18,2.1,1.8,0.2,Education
+2858,Zachary Herman,16,Male,4.7,8.3,5,0.4,9,5,1.8,71,14,2.5,2.3,1.9,Gaming
+2856,Jenna Silva,15,Female,3.2,7.4,2,2.4,10,8,1.2,114,7,3.7,3.1,0,Education
+2855,Alexis Carrillo,18,Female,4.1,5.9,10,0.9,6,9,1.3,24,18,1.9,2.1,1.3,Education
+2853,Jessica Ortiz,15,Male,5.3,6.5,6,1.3,6,7,1,91,8,0.8,3,1.3,Browsing
+2852,Gabriel Smith,14,Male,2,8,5,0,1,1,1.1,51,5,2.4,1.3,1.6,Other
+2850,Alexis Hawkins,17,Male,6.5,7.1,9,1.6,4,9,1.8,113,13,2,0.9,1.5,Browsing
+2845,Yvonne Mccoy,17,Male,6.2,5.2,6,2,2,3,1.4,85,17,1.8,0,0,Social Media
